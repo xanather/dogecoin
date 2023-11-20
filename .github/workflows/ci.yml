@@ -161,7 +161,7 @@ jobs:
             check-symbols: false
             dep-opts: ""
             config-opts: "--enable-gui=qt5 --disable-tests"
-            goal: deploy
+            goal: install
             sdk: 10.11
             sdk-shasum: "bec9d089ebf2e2dd59b1a811a38ec78ebd5da18cbbcd6ab39d1e59f64ac5033f"
           - name: x86_64-linux-experimental
